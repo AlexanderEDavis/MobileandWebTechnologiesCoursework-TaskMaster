@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5F26CD7E1DDDDAF6008452B2"
+               BlueprintIdentifier = "5F05B71D1DFE210A0095C03B"
                BuildableName = "Task Master.app"
                BlueprintName = "Task Master"
                ReferencedContainer = "container:Task Master.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5F26CD941DDDDAF6008452B2"
+               BlueprintIdentifier = "5F05B7331DFE210A0095C03B"
                BuildableName = "Task MasterTests.xctest"
                BlueprintName = "Task MasterTests"
                ReferencedContainer = "container:Task Master.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5F26CD7E1DDDDAF6008452B2"
+            BlueprintIdentifier = "5F05B71D1DFE210A0095C03B"
             BuildableName = "Task Master.app"
             BlueprintName = "Task Master"
             ReferencedContainer = "container:Task Master.xcodeproj">
@@ -65,7 +65,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5F26CD7E1DDDDAF6008452B2"
+            BlueprintIdentifier = "5F05B71D1DFE210A0095C03B"
             BuildableName = "Task Master.app"
             BlueprintName = "Task Master"
             ReferencedContainer = "container:Task Master.xcodeproj">
@@ -84,7 +84,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5F26CD7E1DDDDAF6008452B2"
+            BlueprintIdentifier = "5F05B71D1DFE210A0095C03B"
             BuildableName = "Task Master.app"
             BlueprintName = "Task Master"
             ReferencedContainer = "container:Task Master.xcodeproj">
