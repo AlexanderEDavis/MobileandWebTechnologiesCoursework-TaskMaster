@@ -1,6 +1,0 @@
-framework module Pods_Task_MasterTests {
-  umbrella header "Pods-Task MasterTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
